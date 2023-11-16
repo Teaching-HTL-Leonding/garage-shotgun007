@@ -1,0 +1,12 @@
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\008Garage\Garage.Logic\bin\Debug\net7.0\Garage.Logic.deps.json
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\008Garage\Garage.Logic\bin\Debug\net7.0\Garage.Logic.dll
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\008Garage\Garage.Logic\bin\Debug\net7.0\Garage.Logic.pdb
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\008Garage\Garage.Logic\obj\Debug\net7.0\Garage.Logic.csproj.AssemblyReference.cache
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\008Garage\Garage.Logic\obj\Debug\net7.0\Garage.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\008Garage\Garage.Logic\obj\Debug\net7.0\Garage.Logic.AssemblyInfoInputs.cache
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\008Garage\Garage.Logic\obj\Debug\net7.0\Garage.Logic.AssemblyInfo.cs
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\008Garage\Garage.Logic\obj\Debug\net7.0\Garage.Logic.csproj.CoreCompileInputs.cache
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\008Garage\Garage.Logic\obj\Debug\net7.0\Garage.Logic.dll
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\008Garage\Garage.Logic\obj\Debug\net7.0\refint\Garage.Logic.dll
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\008Garage\Garage.Logic\obj\Debug\net7.0\Garage.Logic.pdb
+C:\SynologyDrive\htl\Programmieren\2.Klasse\csharp\008Garage\Garage.Logic\obj\Debug\net7.0\ref\Garage.Logic.dll
