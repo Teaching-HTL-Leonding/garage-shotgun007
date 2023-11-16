@@ -35,7 +35,7 @@ do
             g.TryExit(parkingSpotNumber, exitTime,out costs);
             break;
         case "3":
-            g.A();
+            g.Report();
             break;
         case "4":
             Console.WriteLine("Good Bye!");

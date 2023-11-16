@@ -41,12 +41,12 @@ public class GarageClass
         if (IsOccupied(parkingSpotNumber))
         {
             var time = exitTime - ParkingSpots[parkingSpotNumber - 1].EntryTime;
-            int halfHour = time.Minutes / 30;
+            int halfHour = time.Minutes / 30 + time.Hours * 2 + time.Days * 48;
             if (time.Minutes % 30 != 0)
             {
                 halfHour++;
             }
-            if (time.Minutes > 15)
+            if (time.Minutes > 15 || time.Hours > 0)
             {
                 costs = halfHour * 3;
             }
@@ -55,17 +55,17 @@ public class GarageClass
                 costs = 0;
             }
             ParkingSpots[parkingSpotNumber - 1] = null!;
-            Console.WriteLine($"Costs are {costs}");
+            Console.WriteLine($"Costs are {costs}$");
             return true;
         }
         else
         {
-            Console.WriteLine("Invalid input");
+            Console.WriteLine("Parking spot is not occupied");
             costs = 0;
             return false;
         }
     }
-    public void A()
+    public void Report()
     {
         Console.WriteLine("| Spot | License Plate |");
         for (int i = 0; i < ParkingSpots.Length; i++)
